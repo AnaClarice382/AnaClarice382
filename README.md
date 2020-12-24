@@ -12,7 +12,7 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaClarice382&show_icons=true&theme=radical&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClarice382&layout=compact&theme=radical&card_width=400"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClarice382&layout=compact&theme=radical"/>
 </a>
 
 
