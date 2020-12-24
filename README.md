@@ -8,10 +8,10 @@
 
 <p>💗 I like to talk about nature, plants, astronomy, philosophy, psychology, technology, games and animes 😁</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AnaClarice382/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaClarice382&show_icons=true&theme=radical&hide_title=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AnaClarice382/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClarice382&layout=compact&theme=radical"/>
 </a>
 
