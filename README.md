@@ -15,4 +15,6 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClarice382&layout=compact&theme=radical"/>
 </a>
 
-
+LinkedIn: https://www.linkedin.com/in/ana-clarice-r-silva-519613116/
+Medium: https://medium.com/@anaclaricep 
+Kaggle: https://www.kaggle.com/anaclaricerezende
