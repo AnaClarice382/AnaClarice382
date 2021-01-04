@@ -14,7 +14,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaClarice382&layout=compact&theme=radical"/>
 </a>
-
+<br>
+<br>
 <p>LinkedIn: https://www.linkedin.com/in/ana-clarice-r-silva-519613116/</p>
 <p>Medium: https://medium.com/@anaclaricep </p>
 <p>Kaggle: https://www.kaggle.com/anaclaricerezende </p>
