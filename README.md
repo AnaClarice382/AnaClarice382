@@ -3,7 +3,7 @@
 <!--
 **AnaClarice382/AnaClarice382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>💻 I’m currently working on TOTVS as a Developer Analyst.</p>
+<p>💻 I’m currently working on Accenture as a Data Enginner.</p>
 <p>🎓 I’m currently learning about data science and machine learning.</p>
 
 <p>💗 I like to talk about nature, plants, astronomy, philosophy, psychology, technology, games and animes 😁</p>
