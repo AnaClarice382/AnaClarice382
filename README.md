@@ -3,10 +3,10 @@
 <!--
 **AnaClarice382/AnaClarice382** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p>💻 I’m currently working on dti digital as a Data Analyst.</p>
+<p>💻 I’m currently working on Mercado Livre as a Data Scientist.</p>
 <p>🎓 I’m currently learning about data science.</p>
 
-<p>💗 I like to talk about nature, plants, astronomy, philosophy, psychology, technology, games and animes 😁</p>
+<p>💗 I like to talk about ... well, probably everything</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaClarice382&show_icons=true&theme=radical&hide_title=true" />
